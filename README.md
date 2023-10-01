@@ -4,3 +4,4 @@ commit 2 HU-02 Como usuario cliente que quiere tener un perfil quiero que la apl
 commit 3 HU-03 Como usuario que ingresa al aplicativo quiero poder ingresar utilizando mi correo y contraseña registrados para mantener mis datos seguros.
 commit 3 HU-04 Como usuario que ingresa al aplicativo quiero ver el catalogo de habitacion para seleccionar la que mas me acomode.
 commit 4 HU-05 Como usuario que ingresa al aplicativo quiero ver la disponibilidad de las habitaciones y el equipamiento de cada una.
+commit 5 HU-06 Como usuario que ingresa al aplicativo quiero seleccionar la fecha de mi estadia para reservar la habitacion.
