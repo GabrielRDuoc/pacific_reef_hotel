@@ -12,3 +12,4 @@ commit 9 HU-10 Como usuario que habla ingles quiero cambiar el idioma a mi gusto
 commit 10 HU-11 Como administrador de clientes quiero editar y actualizar datos de mis clientes cuando lo necesite.
 commit 11 HU-12 Como administrador de reservas quiero crear, cancelar y modificar reservas de mi sistema cuando lo necesite.
 commit 12 HU-13 Como administrador de reservas quiero crear, cancelar y modificar reservas de mi sistema cuando lo necesite.
+commit 13 HU-14 Como administrador del hotel quiero administrar los precios de mis productos en función de la demanda y necesidad del negocio
