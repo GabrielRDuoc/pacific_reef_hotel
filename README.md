@@ -9,3 +9,4 @@ commit 6 HU-07 Como usuario que ingresa al aplicativo quiero registrar mi reserv
 commit 7 HU-08 Como usuario que ingresa al aplicativo quiero saber el monto total de mi estadia segun los productos y fechas seleccionadas.
 commit 8 HU-09 Como usuario que quiere pagar su reserva quiero pagar con mi metodo de pago preferido.
 commit 9 HU-10 Como usuario que habla ingles quiero cambiar el idioma a mi gusto en la pagina.
+commit 10 HU-11 Como administrador de clientes quiero editar y actualizar datos de mis clientes cuando lo necesite.
