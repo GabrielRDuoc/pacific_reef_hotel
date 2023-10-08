@@ -11,3 +11,4 @@ commit 8 HU-09 Como usuario que quiere pagar su reserva quiero pagar con mi meto
 commit 9 HU-10 Como usuario que habla ingles quiero cambiar el idioma a mi gusto en la pagina.
 commit 10 HU-11 Como administrador de clientes quiero editar y actualizar datos de mis clientes cuando lo necesite.
 commit 11 HU-12 Como administrador de reservas quiero crear, cancelar y modificar reservas de mi sistema cuando lo necesite.
+commit 12 HU-13 Como administrador de reservas quiero crear, cancelar y modificar reservas de mi sistema cuando lo necesite.
